@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\bin\Debug\BintoDec a DectoBin Stach.exe.config
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\bin\Debug\BintoDec a DectoBin Stach.exe
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\bin\Debug\BintoDec a DectoBin Stach.pdb
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec_a_DectoBin_Stach.Form1.resources
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec_a_DectoBin_Stach.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.exe
+C:\Users\Uživatel\Desktop\programko\BintoDec a DectoBin Stach\BintoDec a DectoBin Stach\obj\Debug\BintoDec a DectoBin Stach.pdb
